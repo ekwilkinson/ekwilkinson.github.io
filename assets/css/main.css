@@ -2720,7 +2720,7 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #d7f099;
+			color: ##8600d7;
 		}
 
 		#header a {
@@ -2751,7 +2751,7 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #d7f099;
+				color: #8600d7;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
